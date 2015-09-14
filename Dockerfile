@@ -1,4 +1,4 @@
-FROM node:0.12-wheezy
+FROM node:4.0-wheezy
 
 RUN npm install -g grunt-cli
 
